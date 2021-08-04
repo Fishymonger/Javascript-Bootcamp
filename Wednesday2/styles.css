@@ -1,0 +1,26 @@
+.card{
+    background-color: gray;
+    width: 400px;
+    padding: 10px;
+    text-align: center;
+}
+
+h1 {
+    color: purple;
+}
+
+h2{
+    color: cyan;
+}
+
+h3 {
+    color: red;
+}
+
+p {
+    color: silver;
+}
+
+footer{
+    color: royalblue;
+}
